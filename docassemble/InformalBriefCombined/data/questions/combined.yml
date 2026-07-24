@@ -839,7 +839,7 @@ fields:
   - "Impounded appendix (if necessary)": is_served_impounded_appendix
     datatype: yesno
     help: |
-      If you are unsure, you can call the Appeals Court at 617-921-4443 or visit [https://www.mass.gov/info-details/appeals-court-informal-brief-pilot-program](https://www.mass.gov/info-details/appeals-court-informal-brief-pilot-program).
+      If you are unsure, you can call the Appeals Court at [617-725-8106](tel:+16177258106) or visit [https://www.mass.gov/info-details/appeals-court-informal-brief-pilot-program](https://www.mass.gov/info-details/appeals-court-informal-brief-pilot-program).
 ---
 id: record appendix
 question: |
